@@ -1,0 +1,28 @@
+.container{
+    border: 5px solid;
+    background-color: rgb(39, 104, 190);
+    padding: 30px;
+    margin: 0 auto;
+
+    width: 600px;
+    border-radius: 20px;
+}
+input{
+    padding: 10px 220px 10px 220px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 3px;
+    
+}
+select{
+    padding: 10px 250px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 3px;
+
+
+
+}
+.butt{
+    background-color: aquamarine;
+}
